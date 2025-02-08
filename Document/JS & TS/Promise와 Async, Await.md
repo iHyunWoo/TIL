@@ -105,7 +105,7 @@ fetchData("https://dummy.url.com")
 	- Promise.race()
 		- 이행 거부 여부 상관없이 무조건 처리가 첫번째로 끝낸 프로미스 반환
 
-### Async/Await
+## Async/Await
 - ES8에 도입된 비동기 처리를 위한 문법
 - 프로미스를 기반으로 함
 - async 함수는 Promise를 반환. await은 내부적으로 .then()을 이용해서 실행
@@ -120,7 +120,7 @@ async function fetchData() {
 }
 ```
 
-### Async/Await 의 주의할 점
+## Async/Await 의 주의할 점
 - 아래 처럼 연관이 없는 두 데이터에서 await 키워드를 여러번 붙이면, 이전 요청을 대기 함
 ```javascript
 async function fetchData() {
