@@ -6,6 +6,7 @@
 25.02.05(수) 동기/비동기와 블로킹/논블로킹, TypeScript의 type과 interface ([상세 내역 링크](https://github.com/iHyunWoo/TIL/blob/main/TIL/Feb-2025/20250205.md))
 25.02.06(목) 동시성/병렬성, 스케쥴러, Fetch와 Axios([상세 내역 링크](https://github.com/iHyunWoo/TIL/blob/main/TIL/Feb-2025/20250206.md))
 25.02.07(금) 스레드, 데드락, JS에서의 깊은복사/얕은복사([상세 내역 링크](https://github.com/iHyunWoo/TIL/blob/main/TIL/Feb-2025/20250207.md))
+25.02.08(토) JS 프로미스, async/await, 이벤트 루프와 렌더링 시점([상세 내역 링크](https://github.com/iHyunWoo/TIL/blob/main/TIL/Feb-2025/20250208.md))
 
 ## 주의
 1. 되도록 파일 명을 바꾸는 것은 지양.
