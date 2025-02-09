@@ -19,7 +19,7 @@
 1. (props 변경 시) getDerivedStateFromProps(): 새로운 props가 전달될 때 state 업데이트 가능
 2. shouldComponentUpdate(): 렌더링 진행 여부 설정 가능
 3. render()
-4. getSnapshotBeforeUpdate(): render 이후 실행
+4. getSnapshotBeforeUpdate(): render 이후 실행. 잘 쓰이진 않지만, 렌더링 되는 동안 스크롤 위치를 유지하는 등의 경우에 사용
 5. componentDidUpdate(): 컴포넌트의 변화가 발생된 후 호출
 ##### (3) Unmount
 1. componentWillUnmount(): 컴포넌트가 DOM에서 제거되기 직전에 호출
