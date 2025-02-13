@@ -3,6 +3,7 @@
 ### [2월 둘째주, 2주차]
 25.02.10(월) 스레드 동기화 기법([상세 내역 링크](https://github.com/iHyunWoo/TIL/blob/main/TIL/Feb-2025/20250210.md))     
 25.02.11(화) Swift와 Objective-C의 Bridging Header, Java synchronized의 Lock([상세 내역 링크](https://github.com/iHyunWoo/TIL/blob/main/TIL/Feb-2025/20250211.md))     25.02.12(수) TCP와 UDP, HTTPS 동작 방식([상세 내역 링크](https://github.com/iHyunWoo/TIL/blob/main/TIL/Feb-2025/20250212.md))     
+25.02.13(목) synchronized vs ReentrantLock, HTTP Cache([상세 내역 링크](https://github.com/iHyunWoo/TIL/blob/main/TIL/Feb-2025/20250213.md))     
 
 ### [2월 첫째주, 1주차]
 25.02.03(월) 시스템 아키텍처 개념, React Hook ([상세 내역 링크](https://github.com/iHyunWoo/TIL/blob/main/TIL/Feb-2025/20250203.md))   
