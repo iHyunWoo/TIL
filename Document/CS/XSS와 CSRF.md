@@ -51,3 +51,8 @@
 	- CAPTCHA 등 추가 인증 수단 사용
 	- CSRF 토큰 사용
 		- 사용자 세션에 임의의 값을 저장하여 모든 요청마다 해당 값을 포함하여 전송하도록 
+	- SameSite 쿠키 설정
+		- 쿠키가 타 사이트에 전송되지 않도록 설정
+		```
+		Set-Cookie: session=abc123; SameSite=Strict;
+		```
